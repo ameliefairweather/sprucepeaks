@@ -1,0 +1,44 @@
+img{
+  width:300px;
+  border-radius:50%
+}
+
+body{
+  text-align:center;
+ font-family: 'Poppins', sans-serif;
+
+}
+.cover{
+ 
+ 
+  background: url("https://cdn.kiwicollection.com/media/property/PR007534/xl/007534-07-winter_lodge___mtn.jpg?cb=1386183845");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+ 
+}
+
+.container{
+width:700px;
+margin:0 auto;
+}
+
+
+
+
+
+
+.hah{
+   display: flex;
+}
+.hah img{
+   border: 1px solid blue;
+    width: 350px;
+}
+.container two{
+width:700px;
+margin:0 auto;
+}
+
+  
+ 
