@@ -1,6 +1,10 @@
 img{
   max-width:300px;
-  border-radius:50%
+  border-radius: 999px;
+  transition: transform .2s ease;
+}
+img:hover {
+  transform: scale(1.125);
 }
 
 body{
