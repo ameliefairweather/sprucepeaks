@@ -1,5 +1,5 @@
 img{
-  width:300px;
+  max-width:300px;
   border-radius:50%
 }
 
@@ -10,22 +10,18 @@ body{
 }
 .cover{
  
- 
+ color:white;
   background: url("https://cdn.kiwicollection.com/media/property/PR007534/xl/007534-07-winter_lodge___mtn.jpg?cb=1386183845");
   background-repeat: no-repeat;
   background-size: cover;
-
- 
+  padding: 16px;
+  text-shadow: 0 2px 3px rgba(0,0,0,0.75);
 }
 
 .container{
 width:700px;
 margin:0 auto;
 }
-
-
-
-
 
 
 .hah{
